@@ -10,7 +10,7 @@ Domain names in this context are assets, the more ownership of the domain name w
 
 What is special about this domain name is the presence of several traits to identify the uniqueness. And these traits can be seen on the NFT Marketplace and make it easier for others to see the collection of each trait they like.
 
-**Here are some ideas to get awesome web3 platform:**
+## Here are some ideas to get awesome web3 platform
 
 - 🙋‍♀️ Build blog/news media platform pure in web3.
 - 🌈 Build giveaway draw platform pure in web3. 
